@@ -4,18 +4,21 @@
   "description": "Personal collection of mods that I always use for mod development and testing.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
 
+    "allowed-modules >= 0.0.6",
     "automatic-underground-pipe-connectors >= 2.0.11",
     "belt-visualizer >= 2.0.2",
     "crafting-machine-recipes-migration-diff-inspector >= 1.0.1",
     "EditorExtensions >= 2.5.2",
     "elevated-rails-recolor >= 1.0.1",
     "FNEI >= 0.4.6",
+    "helmod >= 2.2.14",
     "PipeVisualizer-Updated >= 2.4.4",
+    "RateCalculator >= 3.3.8",
     "rs-better-zero >= 1.2.0",
     "threadwork >= 1.0.1",
     "UndergroundIndicatorsFixed >= 1.3.8"

@@ -1,6 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2026-07-17
+  Features:
+    - Add allowed-modules mod to the mod pack.
+    - Add helmod mod to the mod pack.
+    - Add RateCalculator mod to the mod pack.
+---------------------------------------------------------------------------------------------------
 Version: 1.1.0
-Date: 2026-07-15
+Date: 2026-07-17
   Changes:
     - Replace Recipe Book with FNEI.
   Features:
