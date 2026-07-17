@@ -1,8 +1,12 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
 Date: 2026-07-15
+  Changes:
+    - Replace Recipe Book with FNEI.
   Features:
-    - Added rs-better-zero mod to the mod pack.
+    - Add elevated-rails-recolor mod to the mod pack.
+    - Add rs-better-zero mod to the mod pack.
+    - Add threadwork mod to the mod pack.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-07-15

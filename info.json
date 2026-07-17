@@ -13,9 +13,11 @@
     "belt-visualizer >= 2.0.2",
     "crafting-machine-recipes-migration-diff-inspector >= 1.0.1",
     "EditorExtensions >= 2.5.2",
+    "elevated-rails-recolor >= 1.0.1",
+    "FNEI >= 0.4.6",
     "PipeVisualizer-Updated >= 2.4.4",
-    "RecipeBook >= 4.0.8",
     "rs-better-zero >= 1.2.0",
+    "threadwork >= 1.0.1",
     "UndergroundIndicatorsFixed >= 1.3.8"
   ]
 }
