@@ -4,7 +4,7 @@
   "description": "Personal collection of mods that I always use for mod development and testing.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.11",
@@ -14,6 +14,7 @@
     "EditorExtensions >= 2.6.1",
     "elevated-rails-recolor >= 1.0.2",
     "helmod >= 2.3.3",
+    "modlist-ui >= 2026.6.30",
     "RateCalculator >= 3.4.1",
     "rs-better-zero >= 2.0.0",
     "toolbars-mod >= 2.39.1",
