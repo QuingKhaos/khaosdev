@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+Date: 2026-07-18
+  Changes:
+    - Add CopyPasteModules mod to the mod pack.
+    - Add ParallelBeltBuilder mod to the mod pack.
+    - Add toolbars-mod mod to the mod pack.
+---------------------------------------------------------------------------------------------------
 Version: 1.2.1
 Date: 2026-07-17
   Changes:
