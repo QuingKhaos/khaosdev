@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Factorio (Steam)",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceFolder}/../khaosdev.ps1",
+            "args": []
+        },
+        {
+            "name": "Factorio 2.1",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceFolder}/../khaosdev_2.1.ps1",
+            "args": []
+        }
+    ]
+}
