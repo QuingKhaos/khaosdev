@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.5.0
+Date: ????
+  Changes:
+    - Add remove-animations mod to the mod pack.
+    - Kick elevated-rails-recolor mod from the mod pack.
+---------------------------------------------------------------------------------------------------
 Version: 1.4.0
 Date: 2026-07-18
   Changes:
