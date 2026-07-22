@@ -1,4 +1,10 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.2.0
+Date: ????
+  Changes:
+    - Add remove-animations mod to the mod pack.
+    - Kick elevated-rails-recolor mod from the mod pack.
+---------------------------------------------------------------------------------------------------
 Version: 2.1.0
 Date: 2026-07-18
   Changes:
@@ -9,6 +15,12 @@ Date: 2026-07-18
   Compatibility:
     - Update for Factorio 2.1.
     - Remove non-compatible mods from the mod pack.
+---------------------------------------------------------------------------------------------------
+Version: 1.5.0
+Date: ????
+  Changes:
+    - Add remove-animations mod to the mod pack.
+    - Kick elevated-rails-recolor mod from the mod pack.
 ---------------------------------------------------------------------------------------------------
 Version: 1.4.0
 Date: 2026-07-18
