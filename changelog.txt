@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.6.0
+Date: ????
+  Changes:
+    - Add BeltsAndMoreAnimationFreeze mod to the mod pack.
+    - Add ghost-inserters mod to the mod pack.
+    - Add recipe-book mod to the mod pack.
+---------------------------------------------------------------------------------------------------
 Version: 1.5.0
 Date: 2026-07-22
   Changes:
