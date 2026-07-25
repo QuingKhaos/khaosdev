@@ -4,7 +4,7 @@
   "description": "Personal collection of mods that I always use for mod development and testing.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -15,6 +15,7 @@
     "CopyPasteModules >= 0.2.0",
     "crafting-machine-recipes-migration-diff-inspector >= 1.0.1",
     "EditorExtensions >= 2.5.2",
+    "EditorPowerToggle >= 1.0.0",
     "? ghost-logistics >= 1.0.0",
     "helmod >= 2.2.14",
     "modlist-ui >= 2026.6.30",
