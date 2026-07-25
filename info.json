@@ -4,7 +4,7 @@
   "description": "Personal collection of mods that I always use for mod development and testing.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.11",
@@ -12,6 +12,7 @@
     "belt-visualizer >= 2.1.4",
     "CopyPasteModules >= 0.2.1",
     "EditorExtensions >= 2.6.1",
+    "EditorPowerToggle >= 1.0.1",
     "+ ghost-logistics >= 2.0.0",
     "helmod >= 2.3.3",
     "modlist-ui >= 2026.6.30",
