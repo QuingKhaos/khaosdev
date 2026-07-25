@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.7.0
+Date: ????
+  Changes:
+    - Add ghost-logistics mod instead of ghost-inserters and BeltsAndMoreAnimationFreeze.
+---------------------------------------------------------------------------------------------------
 Version: 1.6.0
 Date: 2026-07-23
   Changes:
