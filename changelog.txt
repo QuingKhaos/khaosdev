@@ -21,6 +21,18 @@ Date: 2026-07-18
     - Update for Factorio 2.1.
     - Remove non-compatible mods from the mod pack.
 ---------------------------------------------------------------------------------------------------
+Version: 1.7.0
+Date: 2026-07-25
+  Changes:
+    - Add ghost-logistics mod instead of ghost-inserters and BeltsAndMoreAnimationFreeze.
+---------------------------------------------------------------------------------------------------
+Version: 1.6.0
+Date: 2026-07-23
+  Changes:
+    - Add BeltsAndMoreAnimationFreeze mod to the mod pack.
+    - Add ghost-inserters mod to the mod pack.
+    - Add recipe-book mod to the mod pack.
+---------------------------------------------------------------------------------------------------
 Version: 1.5.0
 Date: 2026-07-22
   Changes:
