@@ -4,7 +4,7 @@
   "description": "Personal collection of mods that I always use for mod development and testing.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -16,6 +16,7 @@
     "crafting-machine-recipes-migration-diff-inspector >= 1.0.1",
     "EditorExtensions >= 2.5.2",
     "EditorPowerToggle >= 1.0.0",
+    "factorio-admin-command-center >= 4.3.2",
     "? ghost-logistics >= 1.0.0",
     "helmod >= 2.2.14",
     "modlist-ui >= 2026.6.30",
@@ -25,6 +26,8 @@
     "RecipeBook >= 4.0.8",
     "? remove-animations >= 1.0.3",
     "rs-better-zero >= 1.2.0",
+    "smart-deconstruction-planner >= 1.1.3",
+    "Smart_Inserters >= 2.0.20",
     "threadwork >= 1.0.1",
     "toolbars-mod >= 2.38.3",
     "UndergroundIndicatorsFixed >= 1.3.8"
