@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.5.0
-Date: ????
+Date: 2026-07-28
   Changes:
     - Add Smart_Inserters mod to the mod pack.
 ---------------------------------------------------------------------------------------------------
@@ -37,7 +37,7 @@ Date: 2026-07-18
     - Remove non-compatible mods from the mod pack.
 ---------------------------------------------------------------------------------------------------
 Version: 1.9.0
-Date: ????
+Date: 2026-07-28
   Changes:
     - Add factorio-admin-command-center mod to the mod pack.
     - Add smart-deconstruction-planner mod to the mod pack.
