@@ -4,7 +4,7 @@
   "description": "Personal collection of mods that I always use for mod development and testing.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -19,6 +19,7 @@
     "factorio-admin-command-center >= 4.3.2",
     "? ghost-logistics >= 1.0.0",
     "helmod >= 2.2.14",
+    "map-tag-generator >= 2.1.2",
     "modlist-ui >= 2026.6.30",
     "ParallelBeltBuilder >= 1.0.2",
     "PipeVisualizer-Updated >= 2.4.4",
