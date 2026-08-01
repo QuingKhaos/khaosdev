@@ -19,6 +19,7 @@
     "factorio-admin-command-center >= 4.3.2",
     "? ghost-logistics >= 1.0.0",
     "helmod >= 2.2.14",
+    "locale-explorer >= 1.0.5",
     "map-tag-generator >= 2.1.2",
     "modlist-ui >= 2026.6.30",
     "ParallelBeltBuilder >= 1.0.2",
