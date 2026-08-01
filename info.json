@@ -4,7 +4,7 @@
   "description": "Personal collection of mods that I always use for mod development and testing.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.11",
@@ -15,6 +15,7 @@
     "EditorPowerToggle >= 1.0.1",
     "+ ghost-logistics >= 2.0.0",
     "helmod >= 2.3.3",
+    "map-tag-generator >= 3.0.0",
     "modlist-ui >= 2026.6.30",
     "RateCalculator >= 3.4.1",
     "+ remove-animations >= 2.0.1",
