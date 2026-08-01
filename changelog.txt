@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.10.0
-Date: ????
+Date: 2026-08-01
   Changes:
     - Add locale-explorer mod to the mod pack.
     - Add map-tag-generator mod to the mod pack.
